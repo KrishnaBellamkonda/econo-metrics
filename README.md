@@ -45,7 +45,7 @@ This application uses the World Bank API to fetch latest data on current day eco
 
 ### App in Action
 * Coverpage
-<img src="./images/coverpage.jpg"><img/>
+<img src="./images/coverpage.png"><img/>
 * World at a Glance
 <img src="./images/world-at-a-glance.jpg"><img/>
 * Popular Section
