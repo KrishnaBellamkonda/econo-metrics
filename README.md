@@ -44,7 +44,8 @@ This application uses the World Bank API to fetch latest data on current day eco
 
 
 ### App in Action
-
+- Phone
+- PC
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
