@@ -45,17 +45,17 @@ This application uses the World Bank API to fetch latest data on current day eco
 
 ### App in Action
 * Coverpage
-<img src="./images/coverpage.jpeg" width="100px"><img/>
+<img src="./images/coverpage.jpeg" width="200px"><img/>
 * World at a Glance
-<img src="./images/world-at-a-glance.jpeg"><img/>
+<img src="./images/world-at-a-glance.jpeg" width="200px"><img/>
 * Popular Section
-<img src="./images/popular-section.jpeg"><img/>
+<img src="./images/popular-section.jpeg" width="200px"><img/>
 * Country Indepth
-<img src="./images/country-indepth.jpeg"><img/>
+<img src="./images/country-indepth.jpeg" width="200px"><img/>
 * Country Indepth (cont)
-<img src="./images/country-indepth-1.jpeg"><img/>
+<img src="./images/country-indepth-1.jpeg" width="200px"><img/>
 * About Me
-<img src="./images/country-indepth-2.jpeg"><img/>
+<img src="./images/country-indepth-2.jpeg" width="200px"><img/>
 
 
 
