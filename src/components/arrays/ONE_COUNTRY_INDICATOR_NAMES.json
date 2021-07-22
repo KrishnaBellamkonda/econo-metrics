@@ -1,0 +1,12 @@
+ {
+    "CO2 emissions":"EN.ATM.CO2E.KT",
+    "Inflation":"FP.CPI.TOTL.ZG", 
+    "GDP":"NY.GDP.MKTP.CD", 
+    "GDP per capita":"NY.GDP.PCAP.CD", 
+    "GDP per capita PPP":"NY.GDP.PCAP.PP.CD", 
+    "GNI per capita":"NY.GNP.PCAP.PP.CD",
+    "Life Expectancy":"SP.DYN.LE00.IN",
+    "Imports":"NE.IMP.GNFS.CD",
+    "Exports":"NE.EXP.GNFS.CD"
+
+}

@@ -1,0 +1,11 @@
+{
+
+    "Inflation":"FP.CPI.TOTL.ZG", 
+    "GDP":"NY.GDP.MKTP.CD", 
+    "GDP per capita":"NY.GDP.PCAP.CD", 
+    "GDP per capita PPP":"NY.GDP.PCAP.PP.CD", 
+    "GNI per capita":"NY.GNP.PCAP.PP.CD",
+    "Life Expectancy":"SP.DYN.LE00.IN",
+    "Population":"SP.POP.TOTL"
+
+}

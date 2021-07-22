@@ -1,0 +1,97 @@
+.landing-page .hero {
+  inline-size: 100vw;
+  block-size: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.landing-page .hamburger {
+  inline-size: 35px;
+  block-size: 35px;
+  fill: var(--clr-surface-1);
+  cursor: pointer;
+}
+
+.landing-page .nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  inline-size: 100%;
+  padding-block: var(--spacing-s);
+}
+
+.landing-page .nav nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.landing-page .nav nav ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: var(--spacing-xl);
+  color: var(--clr-nav-links);
+}
+
+.landing-page .nav nav ul li {
+  list-style: none;
+}
+
+.landing-page .landing-page-text {
+  max-inline-size: clamp(150px, 75%, 800px);
+  padding-block: var(--spacing-xxl);
+  color: white;
+}
+
+.landing-page .landing-page-text h1 {
+  padding-block: var(--spacing-l);
+}
+
+.landing-page .landing-page-text h2 {
+  padding-block: var(--spacing-s);
+}
+
+.landing-page .landing-page-text .buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-preferred-size: 300px;
+      flex-basis: 300px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-margin-before: var(--spacing-l);
+          margin-block-start: var(--spacing-l);
+  gap: var(--spacing-l);
+}
+
+.landing-page .landing-page-text .buttons a {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  inline-size: 10rem;
+  block-size: 4rem;
+  border-radius: var(--spacing-s);
+}
+
+.landing-page .landing-page-text .buttons .explore {
+  background-color: var(--clr-interaction-1);
+}
+
+.landing-page .landing-page-text .buttons .about-us {
+  background-color: var(--clr-interaction-minus-1);
+}
+/*# sourceMappingURL=landing_page.css.map */

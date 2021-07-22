@@ -1,0 +1,90 @@
+
+.landing-page {
+
+    
+    .hero {
+        inline-size: 100vw;
+        block-size: 100vh;
+
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        
+    }
+
+    .hamburger {
+        inline-size: 35px;
+        block-size: 35px;
+        fill: var(--clr-surface-1);
+
+        cursor: pointer;
+        
+    }
+
+    .nav {
+        display: flex;
+        justify-content: space-between;
+        inline-size: 100%;
+
+        padding-block: var(--spacing-s);
+
+        nav {
+            display: flex;
+            ul {
+                display: flex;
+                gap: var(--spacing-xl);
+                color: var(--clr-nav-links);
+                li {
+                    list-style: none;
+                }
+            }
+
+        }
+    }
+
+    .landing-page-text {
+        max-inline-size: clamp(150px, 75%, 800px);
+        padding-block: var(--spacing-xxl);
+        color: white;
+
+        h1 {
+            padding-block: var(--spacing-l);
+        }
+        
+        h2 {
+            padding-block: var(--spacing-s);
+        }
+
+        .buttons {
+            display: flex;
+            flex-wrap: wrap;
+            flex-basis: 300px;
+            align-items: center;
+
+            margin-block-start: var(--spacing-l);
+            gap: var(--spacing-l);
+            a {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                inline-size:10rem;
+                block-size: 4rem;
+                border-radius: var(--spacing-s);
+            }
+
+            .explore {
+                background-color: var(--clr-interaction-1);
+            }
+
+            .about-us {
+                background-color: var(--clr-interaction-minus-1);
+            }
+        }
+    }
+
+}
+
+// Media Queries
+@media (min-width:250px) {
+
+}
