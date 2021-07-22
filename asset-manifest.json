@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/econo-metrics/static/css/main.4c2275c4.chunk.css",
+    "main.js": "/econo-metrics/static/js/main.6545b3c7.chunk.js",
+    "main.js.map": "/econo-metrics/static/js/main.6545b3c7.chunk.js.map",
+    "runtime-main.js": "/econo-metrics/static/js/runtime-main.f92cc55a.js",
+    "runtime-main.js.map": "/econo-metrics/static/js/runtime-main.f92cc55a.js.map",
+    "static/js/2.412c3369.chunk.js": "/econo-metrics/static/js/2.412c3369.chunk.js",
+    "static/js/2.412c3369.chunk.js.map": "/econo-metrics/static/js/2.412c3369.chunk.js.map",
+    "static/js/3.60c8962b.chunk.js": "/econo-metrics/static/js/3.60c8962b.chunk.js",
+    "static/js/3.60c8962b.chunk.js.map": "/econo-metrics/static/js/3.60c8962b.chunk.js.map",
+    "index.html": "/econo-metrics/index.html",
+    "static/css/main.4c2275c4.chunk.css.map": "/econo-metrics/static/css/main.4c2275c4.chunk.css.map",
+    "static/js/2.412c3369.chunk.js.LICENSE.txt": "/econo-metrics/static/js/2.412c3369.chunk.js.LICENSE.txt",
+    "static/media/phone_person_buildings.7988dc9a.jpg": "/econo-metrics/static/media/phone_person_buildings.7988dc9a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f92cc55a.js",
+    "static/js/2.412c3369.chunk.js",
+    "static/css/main.4c2275c4.chunk.css",
+    "static/js/main.6545b3c7.chunk.js"
+  ]
+}
