@@ -1,4 +1,40 @@
-# Getting Started with Create React App
+# econo-metrics 
+
+### Description 
+*This is a web application that provides up-to-date information about economies around the world. Using the world bank api to access information, this application makes understanding a country's economic situation very easy.*
+
+### Website 
+**Check out the website here(https://krishnabellamkonda.github.io/econo-metrics/)**
+
+### Table of Contents
+
+### Setup
+* Clone the repository and enter into it 
+```
+$cd econo_metrics
+```
+* You can then start the development server by running 
+```
+$npm start
+```
+
+
+### Web application 
+
+
+
+### Functionality 
+
+### Technology 
+
+
+
+### App in Action
+
+
+### Sources
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +104,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
