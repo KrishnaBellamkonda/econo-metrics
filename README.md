@@ -7,6 +7,13 @@
 **Check out the website here(https://krishnabellamkonda.github.io/econo-metrics/)**
 
 ### Table of Contents
+* [Description](#description)
+* [Setup](#setup)
+* [Functionality](#functionality)
+* [Sections](#sections)
+* [Technology](#technology)
+* [App in Action](#app-in-action)
+* [Sources](#sources)
 
 ### Setup
 * Clone the repository and enter into it 
@@ -17,11 +24,6 @@ $cd econo_metrics
 ```
 $npm start
 ```
-
-
-### Web application 
-
-
 
 ### Functionality 
 This application uses the World Bank API to fetch latest data on current day economies around the world. It displays this data in an interactive fashion through the help of different sections. You can visualize data belonging to individual country or a region using this application. 
