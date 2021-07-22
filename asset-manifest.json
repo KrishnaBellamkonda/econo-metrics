@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/econo-metrics/static/css/main.4c2275c4.chunk.css",
-    "main.js": "/econo-metrics/static/js/main.1b0938d8.chunk.js",
-    "main.js.map": "/econo-metrics/static/js/main.1b0938d8.chunk.js.map",
+    "main.js": "/econo-metrics/static/js/main.c7237db4.chunk.js",
+    "main.js.map": "/econo-metrics/static/js/main.c7237db4.chunk.js.map",
     "runtime-main.js": "/econo-metrics/static/js/runtime-main.f92cc55a.js",
     "runtime-main.js.map": "/econo-metrics/static/js/runtime-main.f92cc55a.js.map",
     "static/js/2.412c3369.chunk.js": "/econo-metrics/static/js/2.412c3369.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f92cc55a.js",
     "static/js/2.412c3369.chunk.js",
     "static/css/main.4c2275c4.chunk.css",
-    "static/js/main.1b0938d8.chunk.js"
+    "static/js/main.c7237db4.chunk.js"
   ]
 }
