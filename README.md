@@ -1,3 +1,6 @@
+<img src="EconoMetrics.gif"></img>
+
+
 # econo-metrics 
 
 ### Description 
